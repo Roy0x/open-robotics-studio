@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="650" viewBox="0 0 600 650">
+<rect width="600" height="650" fill="#f8fafc"/>
+<circle cx="300" cy="300" r="220.0" fill="none" stroke="#cbd5e1"/>
+<path d="M30 300H570 M300 30V570" stroke="#cbd5e1"/>
+<polyline points="300.000,300.000 430.157,321.981 432.000,234.000" fill="none" stroke="#2563eb" stroke-width="7" opacity="0.7"/>
+<polyline points="300.000,300.000 360.510,182.686 432.000,234.000" fill="none" stroke="#d97706" stroke-width="7" opacity="0.7"/>
+<circle cx="432.000" cy="234.000" r="7" fill="#dc2626"/>
+<circle cx="300" cy="300" r="7" fill="#0f172a"/>
+<text x="25" y="600" font-family="sans-serif" font-size="20">reachable — 2 valid poses</text>
+<text x="25" y="630" font-family="sans-serif" font-size="14">Red: target | Blue/orange: poses | +X right, +Y up</text></svg>
